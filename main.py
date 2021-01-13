@@ -30,4 +30,3 @@ def applications():
         'business_name': business_name,
         'tax_id': tax_id,
     })
-    return 'ok'
